@@ -1,0 +1,23 @@
+.header{
+	background-image: url('../img/top-banner.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+	position: relative;
+}
+
+.card-link {
+	text-decoration: none;
+}
+
+.btn-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    text-align: center;
+    padding-left: 0;
+    padding-right: 0;
+    font-size: 16px;
+}
+
